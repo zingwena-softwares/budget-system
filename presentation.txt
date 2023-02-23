@@ -1,0 +1,12 @@
+Extract the project zip
+
+Import the database budgetdb in the project directory
+
+php artisan serve
+
+
+Login details
+
+username : admin@admin.com
+password : password
+
